@@ -91,7 +91,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/starfish08/starfish08/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
 
 ###
 
